@@ -14,7 +14,7 @@ function App() {
      <Navbar  nombreTienda="VLST" subtitulo= "Store" darBienvenida= {darBienvenida} />
     <Contador/>
     
-    </div>
+      </div>
 
 
     </>
