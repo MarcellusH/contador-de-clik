@@ -10,8 +10,7 @@ function App() {
   return (
 
     <>
-
-    <div className="App">
+     <div className="App">
      <Navbar  nombreTienda="VLST" subtitulo= "Store" darBienvenida= {darBienvenida} />
     <Contador/>
     
