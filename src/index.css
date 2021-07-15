@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    
+    text-align: center;
+    margin: auto;
+    
+    height: 50px;
+    
+}
+
+
+.caja-uno{
+
+
+    width: 70%;
+
+    
+    background-color: rgb(6, 168, 173);
+    display: flex;
+    color: blanchedalmond;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 40px;
+    border-radius: 10%;
+    
+}
+
+
+.menuu{
+        display: flex;
+        flex-direction: row;
+        margin-top: 20px;
+        margin-left: 30px;
+        width: 50%;
+        
+
+}
+
+
+
+h1{
+    font-size: 5vh;
+}
+
+.botom{
+    
+    width: 70px;
+    height: 20px;
+    margin-left: auto;
+    background-color: coral;
+
+}
+
+.carrito{
+
+   
+    width: 20px;
+}
+
+.bot{
+
+    background-color: rgb(6, 168, 173);
+    border-radius: 20%;
+}
+
+.letras{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
